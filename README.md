@@ -1,12 +1,11 @@
 # DoggyBot
 
-![alt text](https://github.com/SriramEmarose/DoggyBot/blob/main/DoggyBot.jpg)
 
 This is a beginner level project that implements basic image processing methods to identify laser beam and communicates its coordinates with respective actions to track it from an android powered smart phone on-board to the Node MCU controller of the robot.
 
 Video Demo:
+[![DoggyBot Demo](https://github.com/SriramEmarose/DoggyBot/blob/main/DoggyBot.jpg)](https://www.youtube.com/watch?v=9CTfsazdAcw&ab_channel=DhiAstra "DoggyBot Demo")
 
-[![Watch the video]]( https://www.youtube.com/watch?v=9CTfsazdAcw&ab_channel=DhiAstra)
 
 
 Android Project setup:
