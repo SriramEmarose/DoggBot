@@ -6,7 +6,7 @@ This is a beginner level project that implements basic image processing methods 
 
 Video Demo:
 
-[![Watch the video](https://www.youtube.com/watch?v=9CTfsazdAcw&ab_channel=DhiAstra/hqdefault.jpg)]( https://www.youtube.com/watch?v=9CTfsazdAcw&ab_channel=DhiAstra)
+[![Watch the video]]( https://www.youtube.com/watch?v=9CTfsazdAcw&ab_channel=DhiAstra)
 
 
 Android Project setup:
